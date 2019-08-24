@@ -4,7 +4,7 @@ echo "Before assembling"
 export PATH=$PATH:/opt/app-root/node_modules/.bin
 
 cd ..
-npm install yarn webpack
+npm install yarn
 cd src
 
 node -v
