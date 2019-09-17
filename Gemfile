@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.0'
 # Support postgresql as a database for Active Record
 gem 'pg'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3', '~> 1.4'
+#gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
 gem 'puma', '~> 4'
 # Use SCSS for stylesheets
